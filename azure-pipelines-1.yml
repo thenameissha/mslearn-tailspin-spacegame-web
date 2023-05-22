@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  Sharan_TestPool
+  Default
 
 variables:
   buildConfiguration: 'Release'
