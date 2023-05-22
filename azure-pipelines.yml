@@ -6,8 +6,8 @@
 trigger:
 - main
 
-pool:
-  name: Sharan_TestPool
+pool: Sharan_TestPool
+  
 
 variables:
   buildConfiguration: 'Release'
